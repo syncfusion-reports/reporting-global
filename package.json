@@ -1,0 +1,36 @@
+{
+  "name": "@syncfusion/reporting-global",
+  "version": "4.1.16",
+  "description": "Npm package of localized texts of the Syncfusion Essential JavaScript widgets in various languages.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syncfusion-reports/reporting-global.git"
+  },
+  "keywords": [
+    "Report Viewer",
+    "Report Designer",
+    "Report Editor",
+    "Report Builder",
+    "SSRS",
+    "JavaScript Controls",
+    "HTML5 controls",
+    "Reporting Tool",
+    "Syncfusion",
+    "UI Controls",
+    "Web",
+    "Reports",
+    "RDL",
+    "RDLC",
+    "RDLC Viewer",
+    "RDL Viewer",
+    "globalize",
+    "localized texts",
+    "locale"
+  ],
+  "author": "Syncfusion Inc",
+  "license": "SEE LICENSE IN README.md",
+  "bugs": {
+    "url": "https://github.com/syncfusion-reports/reporting-global/issues"
+  },
+  "homepage": "https://github.com/syncfusion-reports/reporting-global"
+}
