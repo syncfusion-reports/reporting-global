@@ -1,27 +1,11 @@
-## About Syncfusion Reporting Global
+This project is no longer maintained. We recommend you to use our [Bold Reports](https://www.boldreports.com/). 
 
-Syncfusion's Reporting for JavaScript with language packs for the localization of 'Report Viewer` and `Report Designer` widgets.
+To know more about Bold Reports, refer the below links.
 
-## Currently supported localization languages
+* [Online Demos](https://demos.boldreports.com/)
 
-| Culture-Code | Language                       |
-| ------------ | ------------------------------ |
-| ar-AE        | Arabic - United Arab Emirates  |
-| de-DE        | German - Germany               |
-| en-US        | English - United States        |
-| es-ES        | Spanish - Spain                |
-| fr-FR        | French - France                |
-| vi-VN        | Vietnamese - Vietnam           |
-| zh-CN        | Chinese - China                |
+* [GitHub](https://github.com/boldreports/)
 
-## Support
+* [Documentation](https://documentation.boldreports.com/)
 
-In case of any questions regarding the use of Syncfusion EJ Global, please [contact us](http://www.syncfusion.com/support/#) by creating a support ticket.
-
-## Release Notes
-
-Refer the Syncfusion JavaScript Product Release Notes in [online Release Notes at Syncfusion](https://reports.syncfusion.com/documentation/release-notes/).
-
-## License Information
-
-For licensing information about Syncfusion JavaScript, Download the Syncfusion License Agreements from [here](https://www.syncfusion.com/content/downloads/syncfusion_license.pdf).
+* [Contact Us](https://www.boldreports.com/contact)
